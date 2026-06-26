@@ -59,7 +59,7 @@ The framework wraps the YOLO26 detector with a **diffusion-based suspicion engin
 | ----------------- | ---------- | ------------------ | -------------------------------------------------------- |
 | `quick.json`      | ~13 min    | [42]               | install verification, CI                                 |
 | `default.json`    | ~1 hr      | [42]               | development experiments                                  |
-| `production.json` | ~22 hr     | [42, 1337, 2718]   | paper-grade metrics with bootstrap 95% CIs              |
+| `production.json` | ~22 hr     | [42, 1337, 2718]   | metrics with bootstrap                                   |
 
 ### 1.4 Validation Hardware and Software
 
